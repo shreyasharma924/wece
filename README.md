@@ -1,0 +1,2 @@
+# wece
+my first repo
